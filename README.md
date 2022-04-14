@@ -1,5 +1,11 @@
 ### Hi there 👋✨
 
+- 🔭 I’m currently working on some Java projects
+- 🌱 I’m currently learning Vue, Python and V
+- 💬 Ask me about everything:)
+- 📫 How to reach me: [Telegram](https://t.me/Georglider), [Discord](https://discord.gg/RCv7p9F)
+- ⚡ Fun fact: A woman who lost her wedding ring found it 16 years later on a carrot in her garden!
+
 <!--
 **Georglider/Georglider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
